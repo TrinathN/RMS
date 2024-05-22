@@ -1,0 +1,63 @@
+body {
+    background: linear-gradient(to right, #915431, #fa6d6d); /* Gradient from blue to light blue */
+}
+/* Custom CSS for Request Form */
+/* Custom CSS for Request Form */
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+}
+
+form {
+    background-color: #232323;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(224, 224, 224, 0.1);
+}
+
+.mb-4 {
+    margin-bottom: 2rem !important;
+}
+
+label {
+    font-weight: bold;
+    color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+
+
+ul.list-group {
+    list-style: none;
+}
+a.list-links {
+    text-decoration: none;
+    color: #fff;
+}
+.foothead h6 {
+    color: #fff;
+}
+.footpara p {
+    color: #fff;
+}
+footer {
+    background: #000;
+    padding: 60px;
+}
